@@ -46,8 +46,8 @@ Here’s a glimpse of the technologies I work with:
 
 ## 📈 GitHub Stats
 
-![Mukhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Mukhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abupositivity&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abupositivity&layout=compact&theme=radical)
 
 ---
 
